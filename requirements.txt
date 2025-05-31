@@ -1,0 +1,15 @@
+# UI Framework
+streamlit>=1.35.0
+
+# Data Handling
+pandas>=2.2.2
+
+# Scheduling / Time Utilities
+schedule>=1.2.1
+python-dateutil>=2.9.0.post0
+
+# Optional Enhancements (Uncomment if needed)
+# plyer>=2.1.0          # Desktop notifications (Windows/macOS/Linux)
+# apscheduler>=3.10.4   # Advanced scheduling if needed
+
+# No need to install SQLite – it's included in Python standard library
